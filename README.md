@@ -8,11 +8,6 @@
 </p>
 
 <p align="middle">
-    <img src='https://github-readme-streak-stats.herokuapp.com?user=23DP3RStab&theme=onedark_duo&hide_border=true&date_format=j%20M%5B%20Y%5D'/>
-    <br>
-</p>
-
-<p align="middle">
     <img src='https://github-profile-trophy.vercel.app/?username=23DP3RStab&theme=onedark'/>
 </p>
 
