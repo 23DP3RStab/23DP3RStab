@@ -7,9 +7,7 @@
     </a>
 </p>
 
-<p align="middle">
-    <img src='https://github-profile-trophy.vercel.app/?username=23DP3RStab&theme=onedark'/>
-</p>
+
 
 
 
