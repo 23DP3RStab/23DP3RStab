@@ -1,6 +1,6 @@
 <p align='center'>
     <img alt='total stars' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/23DP3RStab'/>
-    <img alt='followers' src='https://custom-icon-badges.herokuapp.com/github/followers/23DP3RStab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white'/>
+    <img alt='followers' src='https://custom-icon-badges.herokuapp.com/github/followers/23DP3RStab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
     <img alt='viewers' src='https://komarev.com/ghpvc/?username=23DP3RStab&color=lightgrey&abbreviated=true&style=for-the-badge'/>
 </p>
 
